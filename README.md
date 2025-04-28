@@ -8,7 +8,7 @@
 
 I am currently **looking for a new QA or SDET role in Canada** — remote or hybrid — where I can bring my **7+ years of experience** in testing, automation, and continuous quality delivery.
 
-📫 **Email:** saivamsikolla.qa@gmail.com  
+📫 **Email:** saivamsikolla@gmail.com  
 📍 **Location:** Edmonton, Alberta  
 📝 **Resume:** Available upon request
 
