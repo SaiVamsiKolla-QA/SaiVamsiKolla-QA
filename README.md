@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sai Vamsi Kolla
 
-🎯 **Senior QA Analyst | SDET | Automation Engineer | Selenium | Playwright | Python | Guidewire | Azure DevOps**
+**Senior QA Analyst | SDET | Automation Engineer | Selenium | Playwright | Python | Guidewire | Azure DevOps**
+QA Engineer with 7+ years of experience in manual and automated testing (Selenium, Playwright, Python). Passionate about building scalable frameworks, API testing, and delivering high-quality software.
 
 ---
 
