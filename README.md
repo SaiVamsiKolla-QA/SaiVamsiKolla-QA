@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sai Vamsi Kolla
-
 **Senior QA Analyst | Automation Engineer | Selenium | Playwright | Python | Guidewire **
+---
 
 Quality-driven QA Engineer with 7+ years of experience in manual and automated testing with 7+ years of experience in manual and automated testing (Selenium, Playwright, Python). Passionate about building scalable frameworks, API testing.Domain expertise in P&C insurance (Guidewire), banking, and SaaS. Passionate about clean code, continuous integration, and high-quality releases.
 
