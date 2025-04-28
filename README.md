@@ -66,7 +66,7 @@ I’m currently:
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/sai-vamsi-kolla/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saivamsi-kolla/)
 - 💻 GitHub: [@SaiVamsiKolla-QA](https://github.com/SaiVamsiKolla-QA)
 - 📫 Email: saivamsikolla@gmail.com
 
