@@ -28,17 +28,18 @@ I am currently **looking for a new QA or SDET role in Canada** — remote or hyb
 
 ## 🧰 Skills & Tools
 
-| Area               | Tools & Tech                                                                 |
-|--------------------|------------------------------------------------------------------------------|
-| **Languages**      | Python, JavaScript, SQL                                                      |
-| **Automation**     | Selenium, Playwright, Testcafe, JMeter                                       |
-| **Frameworks**     | Pytest, POM, BDD (Behave/Cucumber), TestNG                                   |
-| **CI/CD**          | GitHub Actions, Jenkins, Azure DevOps                                        |
-| **API Testing**    | Postman, REST Assured                                                        |
-| **Cloud & DevOps** | AWS (Lambda, EC2 basics)                                                     |
-| **Management**     | Rally, JIRA, HP ALM, Zephyr, Azure DevOps                                    |
-| **Reporting**      | Allure, HTML Reports                                                         |
-| **Others**         | Git, GitHub, Chrome DevTools, JSON, Prompt Engineering                       |
+| Area               | Tools & Tech                                                                   |
+|----------------------|------------------------------------------------------------------------------|
+| **Languages**        | Python, JavaScript, SQL                                                      |
+| **Automation**       | Selenium, Playwright, Testcafe, JMeter                                       |
+| **Frameworks**       | Pytest, POM, BDD (Behave/Cucumber), TestNG                                   |
+|**Package Management**| Poetry,Maven                                                                 |
+| **CI/CD**            | GitHub Actions, Jenkins, Azure DevOps                                        |
+| **API Testing**      | Postman, REST Assured                                                        |
+| **Cloud & DevOps**   | AWS (Lambda, EC2 basics),Docker                                              |
+| **Test Management**  | Rally, JIRA, HP ALM, Zephyr, Azure DevOps                                    |
+| **Reporting**        | Allure, HTML Reports                                                         |
+| **Others**           | Git, GitHub, Chrome DevTools, JSON, Prompt Engineering                       |
 
 ---
 
