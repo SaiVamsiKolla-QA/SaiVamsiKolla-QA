@@ -45,15 +45,15 @@ I am currently **looking for a new QA or SDET role in Canada** — remote or hyb
 
 ## 🚧 Projects on GitHub
 
-### 🧪 [SwagLabs-BDD-POM](https://github.com/SaiVamsiKolla-QA/Python-Selenium-BDD-POM)
-A test automation framework:
+### 🧪 [Python-Selenium-BDD-POM](https://github.com/SaiVamsiKolla-QA/Python-Selenium-BDD-POM)
+Hybrid UI Automation Framework for Swag Labs testing:
 - Selenium + Python + Pytest
 - Hybrid Framework with Behaviour Driver Development (BDD) and Page Object Model (POM)
 - Jenkins+Docker
 
 
-### 🧪 [SwagLabs-POM-E2E](https://github.com/SaiVamsiKolla-QA/SwagLabs-POM-E2E)
-A complete end-to-end test automation framework:
+### 🧪 [Python-Selenium-POM](https://github.com/SaiVamsiKolla-QA/Python-Selenium-POM)
+POM UI Automation Framework for Swag Labs testing:
 - Selenium + Python + Pytest
 - Page Object Model (POM)
 - Allure Reports + GitHub Actions
