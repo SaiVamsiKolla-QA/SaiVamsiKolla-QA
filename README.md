@@ -61,14 +61,14 @@ POM UI Automation Framework for Swag Labs testing:
 - Environment validation via `setup_check.py`
 
 🔜 **Upcoming**:
-- Playwright + Python BDD project with data-driven testing
+- Python-Playwright project 
+- Python-Requests
 ---
 
 ## 🎯 Learning & Goals
 
 I’m currently:
 - ✅ Creating automation frameworks from scratch (Playwright + BDD)
-- 🔄 Practicing AWS and Azure DevOps integrations
 - 📊 Improving performance testing skills with JMeter
 
 ---
