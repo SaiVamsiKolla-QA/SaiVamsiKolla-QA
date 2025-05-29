@@ -1,84 +1,72 @@
-# 👋 Hi, I'm Sai Vamsi Kolla
-Senior QA Analyst | Automation Engineer | Selenium | Playwright | Python | Guidewire 
----
+<h1 align="center">👋 Hi, I'm Sai Vamsi Kolla</h1>
 
-Quality-driven QA Engineer with 7+ years of experience in manual and automated testing with 7+ years of experience in manual and automated testing (Selenium, Playwright, Python). Passionate about building scalable frameworks, API testing.Domain expertise in P&C insurance (Guidewire), banking, and SaaS. Passionate about clean code, continuous integration, and high-quality releases.
+<p align="center">
+  <b>Senior QA / SDET</b> • Selenium & Playwright • Python • Guidewire • AWS • 7+ Years Experience
+</p>
 
----
-
-## 🇨🇦 Actively Seeking Opportunities in Canada
-
-I am currently **looking for a new QA or SDET role in Canada** — remote or hybrid — where I can bring my **7+ years of experience** in testing, automation, and continuous quality delivery.
-
-📫 **Email:** saivamsikolla@gmail.com  
-📍 **Location:** Edmonton, Alberta  
-📝 **Resume:** Available upon request
+<p align="center">
+  <a href="mailto:saivamsikolla@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/saivamsi-kolla/">🔗 LinkedIn</a> •
+  <a href="https://github.com/SaiVamsiKolla-QA">💻 GitHub</a> •
+  📍 Edmonton, Canada
+</p>
 
 ---
 
-## 🔍 About Me
+## 🇨🇦 Actively Seeking QA / SDET Roles
+**Remote or relocation-ready** • Quality-driven engineer with **7+ years** in web, API, and integration testing
 
-- 🧪 QA professional with **7+ years** of experience in **manual and automated testing**
-- 🏢 Domain expertise in **P&C Insurance (Guidewire)**, Banking, and SaaS
-- 🧰 Proficient in **functional, regression, integration**, and **UI/API automation testing**
-- 🚀 Adept with **Agile, Scrum**, and **DevOps** practices
-- 🧠 Quick learner with a passion for clean code and reliable solutions
-
----
-
-## 🧰 Skills & Tools
-
-| Area               | Tools & Tech                                                                   |
-|----------------------|------------------------------------------------------------------------------|
-| **Languages**        | Python, JavaScript, SQL                                                      |
-| **Automation**       | Selenium, Playwright, Testcafe, JMeter                                       |
-| **Frameworks**       | Pytest, POM, BDD (Behave/Cucumber), TestNG                                   |
-|**Package Management**| Poetry,Maven                                                                 |
-| **CI/CD**            | GitHub Actions, Jenkins, Azure DevOps                                        |
-| **API Testing**      | Postman, REST Assured                                                        |
-| **Cloud & DevOps**   | AWS (Lambda, EC2 basics),Docker                                              |
-| **Test Management**  | Rally, JIRA, HP ALM, Zephyr, Azure DevOps                                    |
-| **Reporting**        | Allure, HTML Reports                                                         |
-| **Others**           | Git, GitHub, Chrome DevTools, JSON, Prompt Engineering                       |
+✨ **What I bring:**
+- Build **scalable Python automation frameworks** using Selenium, Playwright, Behave/Cucumber, PyTest, and POM
+- Design **robust CI/CD pipelines** with GitHub Actions, Jenkins, Docker, and AWS
+- Create comprehensive **test reporting dashboards** with Allure
+- **Domain expertise** in P&C Insurance (Guidewire), Banking, and SaaS platforms
+- Practice **exploratory & risk-based testing** methodologies
+- Mentor QA teams and embed quality early in Agile SDLC processes
 
 ---
 
-## 🚧 Projects on GitHub
+## 🛠️ Technical Skills
 
-### 🧪 [Python-Selenium-BDD-POM](https://github.com/SaiVamsiKolla-QA/Python-Selenium-BDD-POM)
-Hybrid UI Automation Framework for Swag Labs testing:
-- Selenium + Python + Pytest
-- Hybrid Framework with Behaviour Driver Development (BDD) and Page Object Model (POM)
-- Jenkins+Docker
-
-
-### 🧪 [Python-Selenium-POM](https://github.com/SaiVamsiKolla-QA/Python-Selenium-POM)
-POM UI Automation Framework for Swag Labs testing:
-- Selenium + Python + Pytest
-- Page Object Model (POM)
-- Allure Reports + GitHub Actions
-- Cross-browser testing + Screenshots
-- Environment validation via `setup_check.py`
-
-🔜 **Upcoming**:
-- Python-Playwright project 
-- Python-Requests
----
-
-## 🎯 Learning & Goals
-
-I’m currently:
-- ✅ Creating automation frameworks from scratch (Playwright + BDD)
-- 📊 Improving performance testing skills with JMeter
+| Category | Technologies & Tools |
+|----------|---------------------|
+| **Languages** | Python 3 • JavaScript • SQL |
+| **Test Automation** | Selenium WebDriver • Playwright • TestCafe |
+| **Frameworks** | PyTest • Behave/Cucumber (BDD) • Page Object Model • TestNG |
+| **API & Performance** | Postman • REST Assured • JMeter |
+| **Build & Package Management** | Poetry • Maven |
+| **CI/CD & DevOps** | GitHub Actions • Jenkins • Azure DevOps • Docker • AWS |
+| **Test Management** | Rally • JIRA • HP ALM • Zephyr |
+| **Reporting & Analytics** | Allure Reports • HTML Reports • Test Dashboards |
+| **Development Tools** | Git • Chrome DevTools • JSON • VS Code • Pycharm |
 
 ---
 
-## 🤝 Let's Connect
+## 🚀 Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/saivamsi-kolla/)
-- 💻 GitHub: [@SaiVamsiKolla-QA](https://github.com/SaiVamsiKolla-QA)
-- 📫 Email: saivamsikolla@gmail.com
+| Repository | Technologies & Patterns | Status |
+|------------|------------------------|---------|
+| **[`requests-api-testing-framework`](https://github.com/SaiVamsiKolla-QA/requests-api-testing-framework)** | Python Requests • PyTest • BDD | ![GitHub CI](https://img.shields.io/github/actions/workflow/status/SaiVamsiKolla-QA/requests-api-testing-framework/ci.yml?label=CI) |
+| **[`playwright-bdd-pom-ui-tests`](https://github.com/SaiVamsiKolla-QA/playwright-bdd-pom-ui-tests)** | Playwright Python • BDD/POM • Cross-browser Testing | ![CI](https://img.shields.io/github/actions/workflow/status/SaiVamsiKolla-QA/playwright-bdd-pom-ui-tests/ci.yml?label=CI) |
+| **[`selenium-bdd-pom-python-behave`](https://github.com/SaiVamsiKolla-QA/selenium-bdd-pom-python-behave)** | Selenium Grid • Behave BDD • Docker Containerization | ![Jenkins](https://img.shields.io/badge/Jenkins-passing-green) |
+| **[`selenium-pom-ui-tests-python`](https://github.com/SaiVamsiKolla-QA/selenium-pom-ui-tests-python)** | Selenium Python •  POM Architecture | ![CI](https://img.shields.io/github/actions/workflow/status/SaiVamsiKolla-QA/selenium-pom-ui-tests-python/ci.yml?label=CI) |
+
+> 💡 Each repository includes comprehensive setup documentation, automated CI/CD pipelines, and detailed **Allure test reports**
 
 ---
 
-_“Strive for progress, not perfection — and let quality lead the way.”_
+## 🎯 Current Learning Focus
+
+🔄 **Active Projects:**
+- Building an advanced **Playwright + BDD framework** from the ground up
+- Deepening **performance testing expertise** with JMeter and load testing strategies
+- Exploring **AI-assisted testing** and prompt engineering for test automation
+
+---
+<p align="center">
+  <i>"Strive for progress, not perfection — and let quality lead the way."</i>
+</p>
+
+<p align="center">
+  💬 <b>Let's connect!</b> I'm always excited to discuss quality engineering, automation frameworks, and testing strategies.
+</p>
