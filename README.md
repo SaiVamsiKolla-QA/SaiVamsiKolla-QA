@@ -14,9 +14,11 @@
 ---
 
 ## 🇨🇦 Actively Seeking QA / SDET Roles
+
 **Remote or relocation-ready** • Quality-driven engineer with **7+ years** in web, API, and integration testing
 
 ✨ **What I bring:**
+
 - Build **scalable Python automation frameworks** using Selenium, Playwright, Behave/Cucumber, PyTest, and POM
 - Design **robust CI/CD pipelines** with GitHub Actions, Jenkins, Docker, and AWS
 - Create comprehensive **test reporting dashboards** with Allure
@@ -58,6 +60,7 @@
 ## 🎯 Current Learning Focus
 
 🔄 **Active Projects:**
+
 - Building an advanced **Playwright + BDD framework** from the ground up
 - Deepening **performance testing expertise** with JMeter and load testing strategies
 - Exploring **AI-assisted testing** and prompt engineering for test automation
