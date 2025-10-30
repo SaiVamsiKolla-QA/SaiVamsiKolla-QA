@@ -19,7 +19,7 @@
 
 ✨ **What I bring:**
 
-- Build **scalable Python automation frameworks** using Selenium, Playwright, Behave/Cucumber, PyTest, and POM
+- Build **scalable automation frameworks** using Selenium, Playwright, Behave/Cucumber, PyTest, and POM
 - Design **robust CI/CD pipelines** with GitHub Actions, Jenkins, Docker, and AWS
 - Create comprehensive **test reporting dashboards** with Allure
 - **Domain expertise** in P&C Insurance (Guidewire), Banking, and SaaS platforms
