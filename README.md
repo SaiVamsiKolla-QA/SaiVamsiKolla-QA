@@ -49,7 +49,6 @@ Specializations:
 **What I bring:**
 - 7+ years of QA experience across multiple domains
 - Modern automation skills (Playwright, API testing, CI/CD)
-- Proven ability to learn fast and deliver (this GitHub is proof)
 - Strong testing fundamentals (STLC, risk-based testing, test strategy)
 
 ---
