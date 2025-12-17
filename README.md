@@ -57,11 +57,4 @@ Specializations:
 <p align="center">
   <i>"Strive for progress, not perfection — and let quality lead the way."</i>
 </p>
-<p align="center">
-  💬 <b>Let's connect!</b> I'm always interested in discussing:
-  - AI/ML testing strategies and methodologies
-  - Test automation architecture and best practices
-  - Quality engineering leadership and team building
-  - Modern SDET workflows and tooling
 
-</p>
