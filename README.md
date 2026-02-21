@@ -43,7 +43,6 @@ Specializations:
 
 **What I'm looking for:**
 - **SDET / QA Automation Engineer** roles in Canada
-- **Salary range:** CAD 90-110K
 - **Remote or on-site** in Vancouver, Toronto, Calgary
 
 **What I bring:**
