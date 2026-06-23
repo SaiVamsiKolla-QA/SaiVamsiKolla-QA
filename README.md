@@ -20,7 +20,7 @@ I test AI systems for a living. Right now I'm the sole QA engineer on a producti
 
 7+ years in QA. I started in manual testing, moved into automation and API testing, and now spend most of my time validating AI systems — agent behavior, model output, and RAG pipelines.
 
-Before mimik I tested autonomous AI checkout systems at Meta (via HCLTech), coordinating a [**N**]-person offshore QA team. Most of my earlier career was in Guidewire and P&C insurance, leading integration, UAT, and automation on large-scale implementations — [**N,NNN+ test cases / NNN defects** on one ClaimCenter Cloud program].
+Before mimik I tested autonomous AI checkout systems at Meta (via HCLTech), coordinating a 16-person offshore QA team. Most of my earlier career was in Guidewire and P&C insurance, leading integration, UAT, and automation on large-scale implementations.
 
 M.Sc. in Internetworking Technologies, University of Alberta.
 
