@@ -1,6 +1,6 @@
 # Hi, I'm Sai Vamsi Kolla
 
-### Senior SDET / Quality Engineer — AI & LLM Product Testing
+### Senior SDET — AI & API Test Automation
 
 I test AI systems for a living. Right now I'm the sole QA engineer on a production on-device AI health app at **mimik** — I own the test strategy, built the product's first automation framework, and validate how the on-device AI agent actually behaves.
 
@@ -28,13 +28,11 @@ M.Sc. in Internetworking Technologies, University of Alberta.
 
 ## Featured Projects
 
-**[microservice-api-testing](https://github.com/SaiVamsiKolla-QA/microservice-api-testing)** — API test automation framework
-The service-testing architecture I work with, built against the open Swagger Petstore (OpenAPI v3) so the whole framework can stay public. Contract validation with pydantic v2, fuzz testing with Schemathesis, pytest as the runner, Allure reporting, managed with Poetry.
-`httpx` · `pydantic v2` · `pytest` · `schemathesis` · `allure`
+**[fhir-contract-fuzz](https://github.com/SaiVamsiKolla-QA/fhir-contract-fuzz)** — Contract & fuzz testing framework for FHIR R4 healthcare APIs — PyTest, Schemathesis, pydantic v2, CI-gated (in active development)
 
-**[qa-expert-agent](https://github.com/SaiVamsiKolla-QA/qa-expert-agent)** — testing a non-deterministic AI system, end to end
-A local RAG-based QA mentor that runs fully on-device (Python, ChromaDB, SmolLM2-360M). Phase 1 shipped with **59 passing tests** and documented evaluation results — built to practice the exact problem I solve at work: how do you test an AI system whose output changes every run?
-`python` · `chromadb` · `sentence-transformers`
+**[medusa-checkout-e2e](https://github.com/SaiVamsiKolla-QA/medusa-checkout-e2e)** — Playwright E2E suite for an open-source commerce platform — Dockerized SUT, PR-gated CI (in active development)
+
+**[qa-agent](https://github.com/SaiVamsiKolla-QA/qa-agent)** — Local RAG QA mentor agent with a CI-gated DeepEval evaluation layer
 
 ---
 
