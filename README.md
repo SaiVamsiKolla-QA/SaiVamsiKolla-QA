@@ -12,7 +12,7 @@ I test AI systems for a living. Right now I'm the sole QA engineer on a producti
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-[Email](mailto:saivamsikolla@gmail.com) • [LinkedIn](https://www.linkedin.com/in/saivamsi-kolla/) • Vancouver, BC, Canada
+[Email](mailto:saivamsikolla@gmail.com) • [LinkedIn](https://www.linkedin.com/in/saivamsi-kolla/) • 🌐 [Portfolio](https://saivamsikolla-qa.github.io/) • Vancouver, BC, Canada
 
 ---
 
