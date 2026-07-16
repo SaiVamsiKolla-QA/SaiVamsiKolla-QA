@@ -2,7 +2,7 @@
 
 ### Senior SDET — AI & API Test Automation
 
-I test AI systems for a living. Right now I'm the sole QA engineer on a production on-device AI health app at **mimik** — I own the test strategy, built the product's first automation framework, and validate how the on-device AI agent actually behaves.
+I test AI systems for a living. Right now I'm a Quality Engineer at **mimik**, owning the test strategy for a production on-device AI health app — I built the product's first automation framework and validate how the on-device AI agent actually behaves.
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
