@@ -52,7 +52,7 @@ M.Sc. in Internetworking Technologies, University of Alberta.
 
 ## Open to SDET / QA Automation roles
 
-Remote, or on-site in **Dallas–Fort Worth**, Vancouver, Toronto, Calgary. Eligible to work in the US (TN visa).
+Remote, or on-site in the **USA** and **Canada**. Eligible to work in the US (TN visa).
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SaiVamsiKolla-QA&show_icons=true&hide_border=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiVamsiKolla-QA&layout=compact&hide_border=true)
