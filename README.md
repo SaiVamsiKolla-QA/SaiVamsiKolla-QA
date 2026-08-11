@@ -2,7 +2,7 @@
 
 ### Senior SDET · AI Quality Engineer
 
-I'm a Quality Engineer at **mimik**, where I work on testing a multi-agent AI product and the APIs and microservices behind it.
+I'm a Quality Engineer at **mimik**, where I test a multi-agent AI product and the microservices behind it.
 
 A lot of my work starts where the happy path ends. I test unusual data, service failures, inconsistent AI responses, and problems that are difficult to reproduce. I also build automation and improve the logs, traces, and test data needed to understand what failed.
 
